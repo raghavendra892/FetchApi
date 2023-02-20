@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "quia et suscipitsuscipit recusandae consequuntur expedita et cumreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto",
+      "body": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "title": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+      "body": "eum et est occaecati",
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "title": "remque ipsam iurequis sunt voluptatem rerum illo velit",
+      "body": "eum et est occaecati Angular",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipitsuscipit recusandae consequuntur expedita et cumreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto",
+      "userId": 3,
+      "id": 12
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
